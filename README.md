@@ -12,6 +12,10 @@ Install `relatix` using npm:
 npm install relatix
 ```
 
+## Documentation
+
+Full documentation is available at [relatixjs.github.io/relatix-docs](https://relatixjs.github.io/relatix-docs/)
+
 ## Quick Example: Task Management Model
 
 Define people, projects, and tasks with relationships in a type-safe manner:
